@@ -22,7 +22,7 @@ This project is an attempt to estimate the increased likelihood of having an int
 
 Google is available in the following languages:
 
- - [ ] French
+ - [x] French
  - [ ] Balanta-Ganja
  - [ ] Hassaniyya
  - [ ] Jola-Fonyi
