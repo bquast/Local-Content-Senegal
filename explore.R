@@ -5,7 +5,10 @@
 # load required libraries
 library(dplyr)
 
-# explore dhs data
+# load DHS data
+load(file = "data/dhs.RData")
+
+# explore DHS data
 str(hh)
 str(ind)
 
@@ -64,11 +67,24 @@ ind$v159   # frequency of watching television
 
 ind$v190   # wealth index
 
-# some basic stats on ethnicity
+# basic stats on ethnicity
 table(ind$v131)
-attr(ind$v131, "labels")
+attr( ind$v131, "labels")
 
-# some basic stats on electricity
+# basic stats on electricity
+table(ind$v119)
+attr( ind$v119, "labels")
+
+# basic stats on literacy
+table(ind$v155)
+attr( ind$v155, "labels")
+
+
+
+######################################
+
+# load data
+load(file = "data/ent.RData")
 
 # explore the enterprise data
 str(ent)
