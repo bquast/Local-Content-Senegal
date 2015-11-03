@@ -17,53 +17,58 @@ head(sapply(hh,  attr, "label"), 200)
 head(sapply(ind, attr, "label"), 500)
 
 # variables of interest
-ind$caseid # case id
-ind$v000   # case indentification
-ind$v001   # country code and phase
-ind$v002   # cluster number
-ind$v003   # household number
-ind$v004   # respondent's line number
-ind$v005   # ultimate area unit
-ind$v007   # month of interview
-ind$v008   # year of interview
-ind$v009   # date of interview (cmc)
-ind$v010   # respondent's month of birth
-ind$v011   # respondent's year of birth
-ind$v012   # date of birthy (cmc)
-ind$v013   # respondent's current age
-ind$v014   # age in 5-year groups
-ind$v022   # primary sampling unit
-ind$v023   # sample strate for sampling errors
-ind$v024   # stratification used in sample design
-ind$v025   # region
-ind$v026   # type of place of residence
+ind$caseid # case indentification
+ind$v000   # country code and phase
+ind$v001   # cluster number
+ind$v002   # household number
+ind$v003   # respondent's line number
+ind$v004   # ultimate area unit
+ind$v006   # month of interview
+ind$v007   # year of interview
+ind$v008   # date of interview (cmc)
+ind$v009   # respondent's month of birth
+ind$v010   # respondent's year of birth
+ind$v011   # date of birthy (cmc)
+ind$v012   # respondent's current age
+ind$v013   # age in 5-year groups
+ind$v021   # primary sampling unit
+ind$v022   # sample strate for sampling errors
+ind$v023   # stratification used in sample design
+ind$v024   # region
+ind$v025   # type of place of residence
 
-ind$v101   # type of place of residence (?)
+ind$v101   # region
+ind$v102   # type of place of residence
 ind$v107   # highest educational level
 ind$v113   # highest year of education
 
-ind$v120   # household has electricity
-ind$v121   # household has radio
-ind$v122   # household has television
-ind$v123   # household has refrigerator
+ind$v119   # household has electricity
+ind$v120   # household has radio
+ind$v121   # household has television
+ind$v122   # household has refrigerator
 
-ind$v131   # religion
-ind$v133   # ethnicity
-ind$v134   # education in single years
-ind$v150   # educational attainment
+ind$v130   # religion
+ind$v131   # ethnicity
+ind$v133   # education in single years
+ind$v149   # educational attainment
 
-ind$v152   # sex of household head
-ind$v153   # age of household head
+ind$v151   # sex of household head
+ind$v152   # age of household head
+ind$v153   # household has: telephone (land-line)
 
-ind$awfactt # household has: telephone (land-line)
+ind$v155   # literacy
+ind$v156   # ever participated in a literacy program outside of primary
+ind$v157   # frequency of reading newspaper or magazine
+ind$v158   # frequency of listening to radio
+ind$v159   # frequency of watching television
 
-ind$v156   # literacy
-ind$v157   # ever participated in a literacy program outside of primary
-ind$v158   # frequency of reading newspaper or magazine
-ind$v159   # frequency of listening to radio
-ind$v160   # frequency of watching television
+ind$v190   # wealth index
 
-ind$v191   # wealth index
+# some basic stats on ethnicity
+table(ind$v131)
+attr(ind$v131, "labels")
+
+# some basic stats on electricity
 
 # explore the enterprise data
 str(ent)
