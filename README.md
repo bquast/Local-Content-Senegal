@@ -33,7 +33,19 @@ Google is available in the following languages:
  - [ ] Pulaar
  - [ ] Serer
  - [ ] Soninke
- - [x] Wolof
+ - [x] Wolof [added 2010-09-15](http://google-africa.blogspot.ch/2010/09/seet-ko-ci-google-google-search-now.html)
 
+
+# Google Chrome Automatic Translation
+
+[Google Chrome Stable version 4.1.249](http://googlechromereleases.blogspot.com/2010/03/stable-channel-update.html) launched on 2010-03-17 included [automatic translation](https://googleblog.blogspot.com/2010/03/brabhsalai-greasain-ilteangach-or.html).
+
+
+# Other Localisation
+
+ - Facebook: [added 2015-01-29](https://www.facebook.com/FacebookTranslationsTeam/posts/827690463944420)
+
+
+# CodeBook.md
 
 This code used for this project is described in the [CodeBook.md](/CodeBook.md) file.
