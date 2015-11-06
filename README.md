@@ -56,8 +56,8 @@ such as, English, Afrikaans, Zulu, Swahili
 # African Content Localisation
 
 
-| Product   | Google Search | Facebook | Google Translate | Twitter | Yahoo Search | YouTube | 
-| ----------------------------------------------------------------------------------------------------------------------
+| Product   | Google Search | Facebook | Google Translate | 
+| ------------------------------------------------------- |
 | Afrikaans |               |          |                  |
 | Cebuano   |               |          |                  |
 | Chichewa  |               |          | 2014-12-12       |
@@ -71,8 +71,7 @@ such as, English, Afrikaans, Zulu, Swahili
 | Yoruba    |               |          | 2013-12-11       |
 | Wolof     |               |          |                  |
 | Zulu      |               |          | 2013-12-11       |
-| ----------------------------------------------------------------------------------------------------------------------
-
+| ------------------------------------------------------- |
 
 # CodeBook.md
 
