@@ -56,7 +56,6 @@ such as, English, Afrikaans, Zulu, Swahili
 # African Content Localisation
 
 
-| ----------------------------------------------------------------------------------------------------------------------
 | Product   | Google Search | Facebook | Google Translate | Twitter | Yahoo Search | YouTube | 
 | ----------------------------------------------------------------------------------------------------------------------
 | Afrikaans |  |  |
