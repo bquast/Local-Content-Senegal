@@ -71,7 +71,6 @@ such as, English, Afrikaans, Zulu, Swahili
 | Yoruba    |               |          | 2013-12-11       |
 | Wolof     |               |          |                  |
 | Zulu      |               |          | 2013-12-11       |
-| ------------------------------------------------------- |
 
 # CodeBook.md
 
