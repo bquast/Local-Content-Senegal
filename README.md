@@ -58,19 +58,19 @@ such as, English, Afrikaans, Zulu, Swahili
 
 | Product   | Google Search | Facebook | Google Translate | Twitter | Yahoo Search | YouTube | 
 | ----------------------------------------------------------------------------------------------------------------------
-| Afrikaans |  |  |
-| Cebuano   |  |  |
-| Chichewa  |  |  | 2014-12-12
-| Hausa     |  |  | 2013-12-11
-| Igbo      |  |  | 2013-12-11
-| Malagasy  |  |  |
-| Sesotho   |  |  | 2014-12-12
-| Somali    |  |  | 2013-12-11
-| Sundanese |  |  |
-| Swahili   |  |  |
-| Yoruba    |  |  | 2013-12-11
-| Wolof     |  |  | 
-| Zulu      |  |  | 2013-12-11
+| Afrikaans |               |          |                  |
+| Cebuano   |               |          |                  |
+| Chichewa  |               |          | 2014-12-12       |
+| Hausa     |               |          | 2013-12-11       |
+| Igbo      |               |          | 2013-12-11       |
+| Malagasy  |               |          |                  |
+| Sesotho   |               |          | 2014-12-12       |
+| Somali    |               |          | 2013-12-11       |
+| Sundanese |               |          |                  |
+| Swahili   |               |          |                  |
+| Yoruba    |               |          | 2013-12-11       |
+| Wolof     |               |          |                  |
+| Zulu      |               |          | 2013-12-11       |
 | ----------------------------------------------------------------------------------------------------------------------
 
 
